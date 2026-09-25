@@ -51,7 +51,7 @@ uv run python -m asana_mcp
       "args": [
         "run",
         "--directory",
-        "/home/mister/PycharmProjects/my_mcp",
+        "/path/to/projects",
         "python",
         "-m",
         "asana_mcp"
